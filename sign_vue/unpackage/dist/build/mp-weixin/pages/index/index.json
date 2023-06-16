@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "手写签名",
+  "usingComponents": {
+    "my-popup": "/components/qianxiao-pop/qianxiao-pop"
+  }
+}

@@ -1,0 +1,1 @@
+<block wx:if="{{isMyPopup}}"><view class="myPopup" style="{{'height:'+(phoneHeight+'px')+';'}}"><view class="myPopup_box"><slot></slot></view></view></block>

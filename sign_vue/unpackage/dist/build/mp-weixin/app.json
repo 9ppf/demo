@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "手写签名",
+    "navigationBarBackgroundColor": "#0599D7",
+    "backgroundColor": "#0599D7"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
